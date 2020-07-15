@@ -53,3 +53,9 @@ This investigation will utilize a variety of supervised learning models to corre
 
 Overall, Suppert Vector Machine performed the best both with and without hyperparameter tuning. However, it is also notable that XGBoost improved considerably
 with hyperparameter tuning. Lastly, Bayes Optimization surpassed GridSearch CV in for all classifiers, even if only marginally so. 
+
+## Future Considerations
+
+1. Attempt other hyperparameter tuning techniques
+2. Purchase an armband to test for more readings/gestures
+3. Create models using neural networks
